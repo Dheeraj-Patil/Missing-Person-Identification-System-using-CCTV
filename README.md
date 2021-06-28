@@ -38,7 +38,7 @@ of 37.1% compared with when the standard
 image size was set to 5050, under the same
 experimental conditions.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-FUTURE SCOPE
+FUTURE SCOPE:
 The purpose of researching the traditional way of
 finding people is to perform a process that takes time
 and requires a great deal of human effort. It also
